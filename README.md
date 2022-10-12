@@ -1,6 +1,6 @@
 - <h2 align="center">👋 Hi, I’m Byron.<h2/>
 - <h3 align="center"> I am a FrontEnd Web Engineer...<h3/>
-- 🌱 I program/learn with these <b>Languages & Tools :<b/>
+- <p align="center">🌱 I program/learn with these <b>Languages & Tools :<b/><p/>
      <br/>
 	<div align="center">
      <a href="https://www.w3schools.com/html/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;"> </a>, 
