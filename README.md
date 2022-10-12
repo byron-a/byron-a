@@ -13,7 +13,7 @@
 		<div/>
     
 - 💞️ I’m looking to land good challanging jobs to expand my experience ...
-- 📫<b> Contact:<b/> send a text on whatsapp(+2348082976168).
+<!--- 📫<b> Contact:<b/> send a text on whatsapp(+2348082976168).--->
 
 <!---
 byron-a/byron-a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
