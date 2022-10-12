@@ -1,6 +1,6 @@
-- <h2 align="center">👋 Hi, I’m @byron-a.<h2/>
-- <h3 align="center"> I am a FrontEnd Web Engineer...<h3/>  
-- 🌱 I’m currently programming/learning with these <b>Languages & Tools:<b/>
+- <h2 align="center">👋 Hi, I’m Byron.<h2/>
+- <h3 align="center"> I am a FrontEnd Web Engineer...<h3/>
+- 🌱 I’m currently programming/learning with these <b>Languages & Tools<b/>:
      [HTML](https://www.w3.org/html/), 
      [CSS](https://www.w3schools.com/css/), 
      [BOOTSTRAP](https://getbootstrap.com/),
@@ -9,7 +9,7 @@
      [REACT](https://reactjs.org/),
      [REDUX](https://redux.js.org/)...
 - 💞️ I’m looking to land a good challanging job to expand my experience ...
-- 📫 How to reach me?: send a text on whatsapp (+2348082976168) ...
+- 📫<b> Contact:<b/> send a text on whatsapp(+2348082976168).
 
 <!---
 byron-a/byron-a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
