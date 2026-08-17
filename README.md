@@ -1,6 +1,5 @@
 - <h2 align="center">👋 Hi, I’m Byron Ayalogu.<h2/>
-- <h3 align="center"> I am a FrontEnd Web Developer...<h3/>
-- <p align="center">🌱 I program/learn with these <b>Languages & Tools :<b/><p/>
+- <p align="center">🌱 I am a FrontEnd Developer with three years of commercial experience building React and Next.js applications in TypeScript. I am Currently completing an MSc in Computing at Bangor University, extending into backend and systems engineering.<b/><p/>
      
 	<div align="center">
      <a href="https://www.w3schools.com/html/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;"> </a> 
@@ -10,15 +9,7 @@
      <a href="https://jquery.com/"><img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jquery" width="40" height="40" style="max-width: 100%;"> <a/> 
      <a href="https://webpack.js.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="redux" width="40" height="40" style="max-width: 100%;"> </a>
      <a href="https://reactjs.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="max-width: 100%;"> </a> 
-     <a href="https://redux.js.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" style="max-width: 100%;"> </a>...
+     <a href="https://redux.js.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" style="max-width: 100%;"> </a>
+		 <a href="https://nextjs.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40" style="max-width: 100%;"> </a> 
+		 <a href="https://www.typescriptlang.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="max-width: 100%;"> </a>
 		<div/>
-    
-
-<!--- 
-- 💞️ I’m looking to land good challanging jobs to expand my experience ...
--📫<b> Contact:<b/> send a text on whatsapp(+2348082976168).--->
-
-<!---
-byron-a/byron-a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
