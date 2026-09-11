@@ -1,5 +1,5 @@
-- <h2 align="center">👋 Hi, I’m Byron Ayalogu.<h2/>
-- <p align="center">🌱 I am a FrontEnd Developer with three years of commercial experience building React and Next.js applications in TypeScript. I am currently completing an MSc in Computing at Bangor University, extending into backend and systems engineering.<b/><p/>
+- <h2 align="center">I’m Byron Ayalogu.<h2/>
+- <p align="center">🌱 A FrontEnd Developer with three years of commercial experience building React and Next.js applications in TypeScript. I am currently completing an MSc in Computing at Bangor University, extending into backend and systems engineering.<b/><p/>
      
 	<div align="center">
 		<h4>Technology</h4>
